@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @saghirajs
+- 👀 I’m interested in AI and web technologies
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on web projects
+- 📫 How to reach me: Email = saghir.ajs@gmail.com; Phone = +222 49100824
